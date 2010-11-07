@@ -6,3 +6,5 @@ In short, this sketch bounces OSC messages back to Osculator, routing them eithe
 This repo contains the necessary OSCulator patch, Processing sketch, and Processing library. To use this, of course, you'll need to have Processing and OSCulator installed. And you'll need a Wii remote too.
 
 Have fun, AKA
+
+ADDENDUM: It appears as thought the .oscd file is corrupted here - please find it at akamediasystem.com/code/KitchenWiimoteInterface/KitchenSettings-vlc+firefox.oscd instead.
